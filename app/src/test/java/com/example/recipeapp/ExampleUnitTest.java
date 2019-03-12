@@ -1,4 +1,4 @@
-package com.example.lab5;
+package com.example.recipeapp;
 
 import org.junit.Test;
 
